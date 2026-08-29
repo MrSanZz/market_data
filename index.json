@@ -1,0 +1,14 @@
+{
+  "EURUSD": {
+    "path": "https://github.com/MrSanZz/market_data/eurusd"
+  },
+  "BTCUSD": {
+    "path": "https://github.com/MrSanZz/market_data/btcusd"
+  },
+  "XAUUSD": {
+    "path": "https://github.com/MrSanZz/market_data/xauusd"
+  },
+  "USDJPY": {
+    "path": "https://github.com/MrSanZz/market_data/usdjpy"
+  }
+}
