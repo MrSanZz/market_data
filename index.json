@@ -1,14 +1,14 @@
 {
   "EURUSD": {
-    "path": "https://github.com/MrSanZz/market_data/eurusd"
+    "path": "https://raw.githubusercontent.com/MrSanZz/market_data/refs/heads/main/eurusd/"
   },
   "BTCUSD": {
-    "path": "https://github.com/MrSanZz/market_data/btcusd"
+    "path": "https://raw.githubusercontent.com/MrSanZz/market_data/refs/heads/main/btcusd/"
   },
   "XAUUSD": {
-    "path": "https://github.com/MrSanZz/market_data/xauusd"
+    "path": "https://raw.githubusercontent.com/MrSanZz/market_data/refs/heads/main/xauusd/"
   },
   "USDJPY": {
-    "path": "https://github.com/MrSanZz/market_data/usdjpy"
+    "path": "https://raw.githubusercontent.com/MrSanZz/market_data/refs/heads/main/usdjpy/"
   }
 }
