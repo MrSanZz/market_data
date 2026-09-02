@@ -10,5 +10,8 @@
   },
   "USDJPY": {
     "path": "https://raw.githubusercontent.com/MrSanZz/market_data/refs/heads/main/usdjpy/"
+  },
+  "US100": {
+    "path": "https://raw.githubusercontent.com/MrSanZz/market_data/refs/heads/main/nasdaq/"
   }
 }
